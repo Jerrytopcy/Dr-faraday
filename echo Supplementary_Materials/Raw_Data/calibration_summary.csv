@@ -1,0 +1,5 @@
+Compound,Slope,Intercept,R_squared,P_value,Std_Error,LOD_ug_L,LOQ_ug_L,Calibration_Range,Weighting
+Dodecane,1244.8015,-31.4111,0.999998,8.16e-10,0.8938,0.15,0.5,1.00 - 100.00 ng/µL,1/x
+Octadecane,984.9244,-9.4895,1.000000,5.60e-11,0.2895,0.12,0.4,1.00 - 100.00 ng/µL,1/x
+Tricosane,1584.9244,-9.4895,1.000000,1.34e-11,0.2895,0.1,0.33,1.00 - 100.00 ng/µL,1/x
+Heptacosane,1420.0000,-0.0000,1.000000,1.20e-30,0.0000,0.13,0.43,1.00 - 100.00 ng/µL,1/x
